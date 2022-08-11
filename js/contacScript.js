@@ -4,7 +4,7 @@ let nameForm = document.querySelector(".name");
 let emailForm = document.querySelector(".email");
 let messageForm = document.querySelector(".message");
 
-let buttonForm = document.querySelector(".btn-submit");
+let buttonForm = document.querySelector("#btn");
 
 buttonForm.addEventListener("click", () => {
     let cantArrobas = 0;
@@ -22,6 +22,6 @@ buttonForm.addEventListener("click", () => {
     }
 });
 
-document.getElementById("btn_understand").addEventListener("click", () => {
-    document.querySelector(".alert").style.display = "none";
+document.addEventListener("click", () => {
+    document.querySelector(".alert");
 });
