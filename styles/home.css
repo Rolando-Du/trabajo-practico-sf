@@ -6,7 +6,7 @@
 
 
 body {
-    background: url(../images/wallpaper.jpg) no-repeat center center fixed;
+    background: url(../images/usuarios.jpg) no-repeat center center fixed;
     background-size: cover;
     font-family: 'Roboto', sans-serif;
 }
@@ -37,7 +37,7 @@ header {
 span.maquina {
     display: block;
     font-family: monospace;
-    color: rgb(21, 134, 233);
+    color: rgb(251, 12, 120);
     white-space: nowrap;
     border-right: 4px solid;
     width: 77ch;
@@ -58,7 +58,7 @@ span.maquina {
         border-color: transparent;
     }
     2% {
-        border-color: rgb(222, 10, 10);
+        border-color: rgb(255, 255, 255);
     }
 }
 
@@ -137,14 +137,6 @@ section {
 }
 
 
-
-
-
-
-
-
-
-
 .forget {
     width: 100%;
     height: auto;
@@ -178,7 +170,6 @@ footer p {
     text-decoration: none;
     text-align: center;
     margin-bottom: 0px;
-    ;
 }
 
 

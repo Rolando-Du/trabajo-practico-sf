@@ -59,10 +59,10 @@ header{
 
 body{
     background: url(/images/wallpaper.jpg) no-repeat center center fixed;
+
 }
 
 main{
-    
     display: flex;
     flex-direction: column;
     justify-content: center;
