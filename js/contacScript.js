@@ -24,4 +24,4 @@ buttonForm.addEventListener("click", () => {
 
 document.addEventListener("click", () => {
     document.querySelector(".alert");
-});
+}); 
